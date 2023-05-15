@@ -1,5 +1,5 @@
 # Obstace avoiding robotic car
-To see this code in function please take a look at <a href='https://drive.google.com/file/d/1YSo7XSv0Ug-zJfyj7haXWHBGhYk-t-nm/view?usp=sharing'>this</a> video.
+To see this code in function please take a look at the video.
 
 <img width="149" alt="image" src="https://github.com/dwipddalal/Obstace-avoiding-robotic-car/assets/91228207/d264aad1-b051-49c6-8fa3-f3a540327355">
 
